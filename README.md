@@ -1,6 +1,4 @@
-# Standard Resolution Presets
-
-### 🎨 ComfyUI Custom Node
+# Standard Resolution Presets - ComfyUI Custom Node
 
 A ComfyUI custom node that provides quick access to standard image resolutions for AI image generation. Perfect for workflows that need consistent, high-quality output dimensions.
 
@@ -23,12 +21,12 @@ A ComfyUI custom node that provides quick access to standard image resolutions f
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/standard-resolution-presets.git
+   git clone https://github.com/vimal-v-2006/standard-resolution-presets-comfyui-custom-node.git
    ```
    
    Or download and extract the ZIP file to create:
    ```
-   ComfyUI/custom_nodes/standard_resolution_presets/
+   ComfyUI/custom_nodes/standard_resolution_presets-comfyui-custom-node/
    ```
 
 3. Restart ComfyUI
