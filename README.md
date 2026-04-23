@@ -1,5 +1,7 @@
 # Standard Resolution Presets
 
+### 🎨 ComfyUI Custom Node
+
 A ComfyUI custom node that provides quick access to standard image resolutions for AI image generation. Perfect for workflows that need consistent, high-quality output dimensions.
 
 ![Preview](preview.png)
